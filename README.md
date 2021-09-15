@@ -3,7 +3,7 @@
 
 Demo: [https://anuragtomar2510-kbc-app.netlify.app/]
 
-It is a simple React-based Quiz Application.
+It is a simple React-based Quiz Application with animations and sounds effects.
 
 
 Feel free to fork the repository for your own learning
